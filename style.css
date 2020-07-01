@@ -1,0 +1,72 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: auto;
+}
+h1{
+    color: tomato;
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.half-width{
+    float: left;
+    width: 40%;
+    margin-top: 10%;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img {
+    width: 100%;
+}
+.header{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 800px;
+    padding-bottom: 50px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon, tomato);
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700px;
+}
+.bio-section{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+}
+
+.portfolio{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+} 
+.lastestheading{
+    text-align: center;
+}
+.three-width{
+    float: left;
+    width: 29%;
+    margin-left: 3%;
+    padding-left: 1%;
+}
+.three-width img{
+    width: 100%;
+}
+.clientsay{
+    text-align: center;
+}
+.contact{
+    font-size: 20px;
+}
+
+.footer{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+}
+.footer-link{
+    padding: 30px 30px;
+}
